@@ -108,3 +108,68 @@ You can monitor Free Tier usage to ensure you don't accidentally exceed Free Tie
     - Don't forget Cost Explorer helps you visualize and forecast spending.
   - Cost Allocation Tags
     - Don't forget that tags can help you track spend.
+
+**Exploring Governance Services** Governance and management services help you maintain control over cost, compliance, and security across your AWS accounts.
+
+**Organizations** Organizations allows you to centrally manage multiple AWS accounts under one umbrella.
+- Group multiple accounts
+- Automate account creation
+- Single payment for all accounts
+- Allocate resources and apply policies across accounts
+
+Master Payer/Root Organization -> Organizational Units -> Member accounts.  Service control Policies SCP - enforce permissions that you want everyone in the organziation to use.
+
+Organization Benefits
+- Consolidated Billing. The advantage of consolidated billing is that you receive one bill for multiple accounts.
+- Cost Savings. You'll receive volume discounts since usage is combined across accounts. 
+- Account Governance. You have a quick and automated way to create accounts or invite existing accounts. 
+- Organizations allows you to save money using Reserved Instance (RI) sharing. RI sharing allows all accounts in the organization to receive the hourly cost-benefit of RIs purchased by any other account. You can always turn off RI sharing using the master payer (or root) organization.
+
+**Control Tower**. Control Tower helps you ensure your accounts conform to company-wide policies.
+- Helps set up new accounts using a multi-account strategy
+- Works directly with AWS Organizations
+- Enforces the best use of services across accounts
+- Provides a dashboard to manage accounts
+- Control Tower allows you to govern your multi-account environment by enabling cross-account security audits or preventing or detecting security issues through mandatory or optional guardrails.
+
+**Systems Manager**  Systems Manager gives you visibility and control over your AWS resources.
+- Automate operational tasks on your resources
+- Group resources and take action
+- Patch and run commands on multiple EC2 instances or manage RDS instances
+- Systems Manager allows you to auto-patch software running on EC2 instances according to a schedule.
+
+**Trusted Advisor** Trusted Advisor provides real-time guidance to help you provision your resources following AWS best practices.
+- Helps you understand best practices
+- Trusted Advisor helps reduce your overall costs by monitoring service limits.
+
+**License Manager** License Manager helps you manage software licenses.
+- License Manager. Manage on-premises and AWS licenses
+- Track licenses for Oracle, Microsoft, SAP, and more
+
+**Certificate Manager**. Certificate Manager helps you provision and manage SSL/TLS certficates.
+- Povides public and private certificates for free
+- Integrates with Elastic Load Balancing, API Gateway, and more
+
+- **Studying for the Exam**
+  - Organizations
+    - Don't forget Organizations saves you money through consolidated billing. Also, remember the importance of SCPs.
+  - Control Tower
+    - Don't forget Control Tower helps you enforce best use of services across your organization.
+  - Systems Manager 
+    - Remember that Systems Manager helps you maintain your resources through automatic patching and updates.
+  - Trusted Advisor
+    - Remember the recommendations made by Trusted Advisor.
+  - License Manager
+    - Remember that License Manager helps you manage on-premises or AWS-based Oracle licenses.
+  - Certificate Manager
+    - Remember that Certificate Manager provides free public certificates.
+
+
+
+
+
+
+
+
+
+
