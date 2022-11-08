@@ -70,3 +70,41 @@ Ways to reduce TCO in AWS
   - Price List API
     - Don't forget the Price List API is one way to determine the cost of services.
 	
+### Understanding Billing Services
+There are several tools available to help you track your ongoing spend.
+
+**Budgets**. Budgets allows you to set custom budgets that alert you when your costs or usage exceed your budgeted amount.
+- Improve planning and cost control
+- Cost, usage, and reservation budgets
+- Budget alerts
+
+Budget Types
+- Cost Budgets.  Plan how much you want to spend on a service
+- Usage Budgets.  Plan how much you want to use a service
+- Reservation Budgets. Set Reserved Instances or Savings Plan utilization or coverage targets
+
+You can monitor Free Tier usage to ensure you don't accidentally exceed Free Tier limits and incur unwanted costs. You can set up an alert notification for when your account is approaching a particular dollar amount.
+
+**Cost and Usage Report** The Cost and Usage Report contains the most comprehensive set of cost and usage data.
+- Aggregate usage data on a daily, hourly, or monthly leve
+- The Cost and Usage Report gives you the ability to do a deep dive into your AWS cost and usage data. Once set up, you can download the report using the Amazon S3 console.
+
+**Cost Explorer** Cost Explorer allows you to visualize and forecast your costs and usage over time.
+- Visualize costs over time
+- View past 12 months
+- Forecast for up to 3 months
+- If you are considering your options for Savings Plans, AWS Cost Explorer can analyze your EC2 usage over the past 7, 30, or 60 days.
+
+**Cost Allocation Tags** Tags are useful for tracking spend.
+- Tags allow you to label resources using a key and value pair.
+- Tags allow you to track costs via the cost allocation report. 
+
+- **Studying for the Exam**
+  - Budgets
+    - Going into the exam, don't forget you can be alerted when your usage exceeds a defined threshold using Budgets.
+  - Cost and Usage Report
+    - Remember that the Cost and Usage Report provides the most detailed set of AWS cost and usage data available.
+  - Cost Explorer
+    - Don't forget Cost Explorer helps you visualize and forecast spending.
+  - Cost Allocation Tags
+    - Don't forget that tags can help you track spend.
