@@ -164,12 +164,118 @@ Organization Benefits
   - Certificate Manager
     - Remember that Certificate Manager provides free public certificates.
 
+### Utilizing Management Services.  
+There are expert teams available that help you manage and operate your cloud environment. 
 
+**Managed Services**. Managed Services helps you efficiently operate your AWS infrastructure. 
+- Augments your internal staff
+- Provides ongoing management of your infrastructure
+- Reduces operational risks and overhead
+- Managed services can increase your operational efficiency by helping you develop application-specific health monitoring using CloudWatch.
 
+**Professional Services** Professional Services helps enterprise customers move to a cloud-based operating model.
+- Implements solutions
+- You can quickly move on-premises applications to the cloud using AWS Professional Services.
 
+**AWS Partner Network (APN)**  APN is a global community of approved partners that offer software solutions and consulting services for AWS. 
+- Offers technology partners that provide software solutions
+- Provides consulting partners that offer professional service
+- Find approved vendors with deep AWS expertise
+- If your team lacks the technical expertise to build and deploy cloud applications, the APN could help you get up and running quickly.
 
+**Marketplace** Marketplace is a digital catalog of prebuilt solutions you can purchase or license. You may also sell your own solutions to others via Marketplace.
+- Buy third-party software
+- Sell solutions to AWS customers
+- Search the catalog of software listings and install with the click of a button
+- Some products listed on Marketplace offer free trials. The free trial allows you to try the software before you buy it. 
 
+**Personal Health Dashboard** Personal Health Dashboard alerts you to events that might impact your AWS environment.
+- Provides troubleshooting guidance
+- Feedback tailored to your specific environment
 
+- **Studying for the Exam**
+  - Managed Services
+    - Don't forget Managed Services augments your staff and helps improve your overall operational efficiency. 
+  - Professional Services
+    - Don't forget Professional Services can help you migrate from on-premises to the cloud.
+  - Marketplace and APN
+    -  Remember that AWS recognizes partners and providers from these networks. 
+  - Personal Health Dashboard
+    - Don't forget Personal Health Dashboard provides tailored advice
 
+### Exploring Support Plans
 
+**Support Plans** There are 4 support plans.
+- Basic
+  - Basic Support is included for free for all AWS accounts.
+    - Account and Billing
+    - Service Limit Increases
+    - 24/7 access via email only
+- Developer
+  - Developer Support starts at $29 a month and is recommended for testing and development.
+    - Account and Billing
+    - Service Limit Increases
+    - Technical Support
+    - One Primary Contact
+    - Unlimited Cases
+    - Business-hours access via email only
+    - Cloud support Associate
+    - Response Time
+      - <24 hours General guidance
+      - <12 hours System impaired
+- Business
+  - Business Support starts at $100 a month and is recommended for production workloads.
+    - Account and Billing
+    - Service Limit Increases
+    - Technical Support
+    - Unlimtied Contacts
+    - Unlimited Cases
+    - Full Set of Trusted Advisor Checks
+    - 24/7 access via email, phone, or chat
+    - Cloud Support Engineers
+    - Response Time
+      - <24 hours General guidance
+      - <12 hours System impaired
+      - <4 hours Production system impaired
+      - <1 hour Production system down
+- Enterprise
+  - Enterprise Support starts at $15,000 a month and is recommended for business or mission-critical production workloads.
+    - Account and Billing
+    - Service Limit Increases
+    - Technical Support
+    - Unlimtied Contacts
+    - Unlimited Cases
+    - Technical Account Manager (TAM)
+    - Concierge Support Team
+    - Infrastructure Event Management
+    - Full Set of Trusted Advisor Checks
+    - 24/7 access via email, phone, or chat
+    - Cloud Support Engineers
+    - Response Time
+      - <24 hours General guidance
+      - <12 hours System impaired
+      - <4 hours Production system impaired
+      - <1 hour Production system down
+      - <15 minutes Business Critical System down
 
+**Support Case Types**. There are 3 types of support cases you can open with AWS Support.
+- Account and Billing
+  - Account-related and billing cases can be opened by all customers.
+- Service Limit Increases
+  -  Default service quota (or limit) increases can be opened by all customers.
+- Technical Support
+  - Technical support cases can only be opened by customers on the Developer, Business, or Enterprise plans. 
+**Note** AWS Support does not allow cases for code development, debugging custom software, or performing system administration tasks.
+
+- **Studying for the Exam**
+  - Basic Support
+    - Don't forget how to open tickets and the types of tickets you're allowed to open.
+  - Developer Support
+    - Don't forget how to open tickets and the types of tickets you're allowed to open.
+  - Business Support
+    - Don't forget how to open tickets and the types of tickets you're allowed to open.
+    - Remember this support plan includes the full set of Trusted Advisor checks.
+  - Enterprise Support
+    - Don't forget how to open tickets and the types of tickets you're allowed to open.
+    - Remember this support plan includes the full set of Trusted Advisor checks.
+    - Don't forget this support plan provides access to a Technical Account Manager (TAM) and the Concierge Support Team.
