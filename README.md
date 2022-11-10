@@ -56,7 +56,7 @@ Ways to reduce TCO in AWS
 - Use pricing calculator to maximize TCO
 
 
-**WS Price List API**. The Price List API allows you to query the price of AWS services.
+**AWS Price List API**. The Price List API allows you to query the price of AWS services.
 - Query using JSON or HTML
 - Receive price alerts when prices change 
 
