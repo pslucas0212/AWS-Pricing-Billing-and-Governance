@@ -47,7 +47,7 @@ TCO is a financial estimate that helps you understand both the direct and indire
 **Application Discovery Service** helps you plan migration projects to the AWS Cloud.
 - Plan migration projects
 - Used to estimate TCO
-- Works with other servicesto migrate servers
+- Works with other services to migrate servers
 
 Ways to reduce TCO in AWS
 - Minimize capital Expenditures. AWS helps you minimize large capital expenditures, which reduces your TCO.
