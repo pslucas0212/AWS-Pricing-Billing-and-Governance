@@ -86,7 +86,7 @@ Budget Types
 You can monitor Free Tier usage to ensure you don't accidentally exceed Free Tier limits and incur unwanted costs. You can set up an alert notification for when your account is approaching a particular dollar amount.
 
 **Cost and Usage Report** The Cost and Usage Report contains the most comprehensive set of cost and usage data.
-- Aggregate usage data on a daily, hourly, or monthly leve
+- Aggregate usage data on a daily, hourly, or monthly level
 - The Cost and Usage Report gives you the ability to do a deep dive into your AWS cost and usage data. Once set up, you can download the report using the Amazon S3 console.
 
 **Cost Explorer** Cost Explorer allows you to visualize and forecast your costs and usage over time.
